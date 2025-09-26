@@ -1,5 +1,4 @@
 # My Studies: Java Masterclass
-![Course Banner](https://img-c.udemycdn.com/course/240x135/1474108_2b80_5.jpg)
 
 This repository documents my entire learning journey in the **[Java Masterclass 2025: 130+ Hours of Expert Lessons](https://www.udemy.com/share/101Wdq3@U5I74WjJDN7vPbI3tRJ3leYSIgsPC658doTak9madzZIleanXBJyihpe5wlq3nCHyQ==/)** taught by Tim Buchalka.
 
