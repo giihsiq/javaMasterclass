@@ -41,8 +41,6 @@ The goal is to centralize notes, solved exercises, and projects developed throug
 
 This repository is organized following the course's section structure.
 
-*(Tip: As you create the folders, uncomment and adjust the links below to make them work as a functional index.)*
-
 *(<details>)*
 *(<summary><strong>Section 2: Basic JavaScript for Beginners</strong></summary>)*
 
